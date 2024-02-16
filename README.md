@@ -20,8 +20,8 @@
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youTube]: https://www.youtube.com/c/joshmadakor
-[linkedin]: https://linkedin.com/in/joshmadakor
+[youTube]: https://www.youtube.com/channel/UCPCQYCTEnaG9G2pEwfCkYQA
+[linkedin]: https://www.linkedin.com/in/tauqir-ali/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
